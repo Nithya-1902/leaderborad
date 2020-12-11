@@ -1,0 +1,59 @@
+.out_div{
+      width:100%;
+      background-color:black;
+      color:white;
+      display:inline-block;
+}
+      .inner{
+      	float:left;
+      }
+      .btn{
+	background-color:#2AA4C8;
+	height:50px;
+	border-radius:5px;
+	border-color:#2AA4C8;
+	border-style:solid;
+	color:white;
+	margin-left:10px;
+	width:30%;
+      }
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #2AA4C8;
+  text-align: left;
+  padding: 8px;
+  height:60px;
+}
+#addteamform , #playgameform{
+    margin-top: 396px;
+    margin-left: 16%;
+    position: absolute;
+    background: lightgray;
+    border-radius: 10px;
+    padding: 92px;
+    width: 50%;
+    display: none;
+}
+#close{
+    margin-bottom: 25px;
+    margin-left: 100%;
+    margin-top: -5%;
+    padding-bottom: 2;
+    border-style: none;
+}
+.iinput{
+height: 37px;
+    padding: 10px;
+    border-radius: 10px;
+    border-block: none;
+    border-style: none;
+width:95%;
+}
+#maindiv{
+display:none;
+}
